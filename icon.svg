@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="116" fill="#1d5f4c"/>
+  <circle cx="256" cy="146" r="30" fill="#e6a864"/>
+  <text x="256" y="330" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="184"
+        font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="6">AU</text>
+  <rect x="152" y="374" width="208" height="10" rx="5" fill="#e6a864" opacity=".9"/>
+</svg>
